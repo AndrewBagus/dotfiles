@@ -1,7 +1,7 @@
-*
+/*
 !.gitignore
-!.local
-!.config
+!.local/*
+!.config/*
 !.tmux.conf
 !.profile
 !.xinitrc
