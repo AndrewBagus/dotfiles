@@ -1,0 +1,8 @@
+*
+!.gitignore
+!.local
+!.config
+!.tmux.conf
+!.profile
+!.xinitrc
+!.xprofile
