@@ -279,7 +279,7 @@ type = internal/date
 interval = 60
 
 date = "%d %b %Y (%a)"
-time = "%H:%m"
+time = "%H:%M"
 
 # If you're not living in a country where AM and PM is used you can add -alt to the time above this line and comment it using ;, then you can remove the -alt to the time under this line and uncomment it.
 ;time-alt = " at %H:%M"
